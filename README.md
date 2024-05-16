@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejspandit
 - 👀 I’m interested in UX Design and Web development
-- 🌱 I’m currently learning neoG..
+- 🌱 I’m currently learning MERN.
 - 📫 How to reach me? Contact me via tejspandit@gmail.com
 
 <!---
